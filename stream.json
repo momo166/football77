@@ -3,6 +3,7 @@
         "id": 1,
         "title": "World Cup 2022",
         "imagea": "https://ssl.gstatic.com/onebox/media/sports/logos/HJ3_2c4w791nZJj7n-Lj3Q_96x96.png",
+        "imageb": "https://ssl.gstatic.com/onebox/media/sports/logos/KnSUdQWiGRoy89q4x85IgA_96x96.png",
         "teama":"Portugal",
         "teamb": "uruguay",
         "m3u8": "https://murthyneeraj231.s3.amazonaws.com/worldcup_480.m3u8"
@@ -11,7 +12,7 @@
         "id": 2,
         "title": "Cartoon",
         "imagea": "https://media.api-sports.io/football/teams/40.png",
-        "imagec": "https://media.api-sports.io/football/teams/541.png",
+        "imageb": "",
         "teama":"Liverpool",
         "teamb": "Real Madrid",
         "m3u8": "https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8"
